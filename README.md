@@ -1,4 +1,4 @@
-# WidgetPack Module 1.2.3
+# WidgetPack Module 1.0.0
 
 ## Upload
 Upload "custom" and the "modules" folder to your NamelessMC Root directory (public_html, html, htdocs)
