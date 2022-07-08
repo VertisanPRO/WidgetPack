@@ -9,7 +9,7 @@ class WidgetPack_Module extends Module {
         $this->_widget_language = $widget_language;
 
         $name = 'WidgetPack';
-        $author = '<a href="https://tensa.co.ua" target="_blank" rel="nofollow noopener">xGIGABAITx</a>';
+        $author = '<a href="https://github.com/GIGABAIT-Official" target="_blank" rel="nofollow noopener">Vertisan</a>';
         $module_version = '1.0.0';
         $nameless_version = '2.0.0-pr13';
 
